@@ -23,7 +23,7 @@ ghost
 solution
 service
 software
-virus25
+virus
 security
 phonenumber
 expert
@@ -56,7 +56,7 @@ approximately
 segment
 priority
 physics
-branche
+branches
 science
 mathematics
 lightning
